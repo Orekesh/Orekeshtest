@@ -4,6 +4,7 @@
 
 - <b>Terraform</b>
   - [Using Terraform To Create Route-53 For AWS Landing Zone](https://github.com/Orekesh/aws-route53)
+  - [Using Terraform To Create ec2-cloudwatch For AWS Landing Zone](https://github.com/Orekesh/ec2-cloudwatch)
 
 
 
